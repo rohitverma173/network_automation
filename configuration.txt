@@ -1,0 +1,6 @@
+interface Loopback1
+ ip address 1.1.1.1 255.255.255.255
+ ip pim sparse-dense-mode
+ ip ospf 100 area 0
+ ipv6 address 2001:1:1::1/64
+Appending new line in file
